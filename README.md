@@ -1,7 +1,7 @@
 # FreeBSD VPN Server - Ячейка 8
 
 ## Описание
-FreeBSD 15.0 VPN-сервер с WireGuard, pf и Unbound DoT.
+FreeBSD 14.2 VPN-сервер с WireGuard, pf и Unbound DoT.
 
 ## Компоненты
 - WireGuard VPN (подсеть 10.200.200.0/24, порт 51820)
@@ -9,7 +9,7 @@ FreeBSD 15.0 VPN-сервер с WireGuard, pf и Unbound DoT.
 - Unbound DoT резолвер (Cloudflare 1.1.1.1:853, Quad9 9.9.9.9:853)
 
 ## Установка
-1. Установи FreeBSD 15.0
+1. Установи FreeBSD 14.2
 2. Склонируй репозиторий:
    git clone https://github.com/ТВОЙ_ЛОГИН/freebsd-vpn-lab.git
 3. Запусти скрипт:
