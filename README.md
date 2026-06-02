@@ -11,7 +11,7 @@ FreeBSD 14.2 VPN-сервер с WireGuard, pf и Unbound DoT.
 ## Установка
 1. Установи FreeBSD 14.2
 2. Склонируй репозиторий:
-   git clone https://github.com/ТВОЙ_ЛОГИН/freebsd-vpn-lab.git
+   git clone https://github.com/Namituan/freebsd-vpn-lab.git
 3. Запусти скрипт:
    cd freebsd-vpn-lab
    sh install.sh
